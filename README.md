@@ -56,7 +56,12 @@ Onde:
 * **som**: Velocidade do som no ar (ex: $343\text{ cm/s}$).
 * **2**: Divisor necessário para desconsiderar o tempo de volta (eco) do som.
 
-## Vídeo explicativo
+## Vídeo do projeto
+https://youtu.be/9TrQdXB9II0
+
+## Imagens do projeto
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/bf9b9667-a262-4ca6-96a2-e281a6aabab4" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdfcac68-10ee-4c91-81f3-eabd3165db98" />
 
 ## Alunos
 - Adilson Armando Miguel NºUSP: 17379918
@@ -65,6 +70,5 @@ Onde:
 - Pedro Iori Garcia NºUSP: 17839261
 
 ## Agradecimentos
-O projeto foi bastante enriquecedor, pois, consolidou o conteúdo aprendido na disciplina de eletrônica durante o semetre.
-
+O projeto foi bastante enriquecedor, pois consolidou o conteúdo aprendido na disciplina de eletrônica durante o semestre.
 Agradecer ao professor Simões pelo auxilio no aprendizado e no precesso de elaboração do projeto em questão!
